@@ -37,3 +37,5 @@
 [Разбор кейса "Модель угроз по методике ФСТЭК"](https://github.com/netology-code/ibb-homeworks/blob/IBB-33/casestudy_threat_model.md)
 
 [Руководство по работе в терминале](terminal)
+
+выполнение скрикаста 
